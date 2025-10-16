@@ -16,7 +16,7 @@ I design interfaces that move with purpose - React ecosystems built in TypeScrip
 
 **Languages and Frameworks:**
 
- `JavaScript` `React` `Node.js` `Express` `HTML` `CSS` `SQL`
+ `JavaScript` `React` `Node.js` `Express` `HTML` `CSS` `SQL` `Solidity` 
 
 **Platforms and Tools:**
 
