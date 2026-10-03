@@ -1,98 +1,118 @@
-# Hi there, I'm Izuaba Kenneth Kelechukwu! 👋
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-izuaba.xyz-black?style=for-the-badge&logo=react&logoColor=white)](https://izuaba.xyz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kcdeblocksmith)
-[![Twitter](https://img.shields.io/badge/X%20%2F%20Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kc_deblocksmith)
-
-I am a **Fullstack, Web3 & AI Systems Engineer** crafting intelligent agents, decentralized applications, and high-performance developer tools.
-
-I specialize in building frontend ecosystems in **React & Next.js with TypeScript** where animations serve purpose and components balance aesthetic elegance with top-tier performance. On the backend, I design lean, robust architectures using **Node.js, NestJS, and SQL/NoSQL databases**. In Web3 and AI, I build seamless onchain experiences—from **Soroban smart contracts on Stellar** to **autonomous AI backend agents and multi-surface execution tools**.
-
-Across the entire stack, I prioritize software that is maintainable first, then magical.
-
----
-
-## ⚡ What I'm Focused On
-
-- 🤖 **AI Agents & Autonomous Systems:** Building zero-to-one AI agent execution platforms and autonomous code generator agents (e.g. Backend-as-an-Agent).
-- ⛓️ **Web3 & Decentralized Apps:** Smart contract development (Soroban / Rust, Solidity), trustless escrow mechanics, and seamless Web3 onboarding UX.
-- 🎨 **Fullstack Craftsmanship:** Modern React/Next.js design systems, Tailwind CSS (v3 & v4), Framer Motion, micro-interactions, and scalable NestJS/Express APIs.
-
----
-
-## 🚀 Featured Projects
-
-| Project                                                                 | Description                                                                                                                                                             | Tech Stack                                                          |
-| :---------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------ |
-| 🤖 **[KP (KeeperHub Agent Platform)](https://github.com/Kaycee276/kp)** | Zero-to-One Onchain AI Agent Platform for multi-chain EVM & Solana transaction execution via CLI, Web, and Telegram (`@keipee_bot`). Built for The Last Mile Hackathon. | `Next.js 15` `KeeperHub` `LangChain` `Gemini` `TypeScript`          |
-| ⚡ **[Anya](https://github.com/Kaycee276/Anya)**                        | Autonomous **Backend-as-an-Agent** that reads frontend repositories, infers data models, and generates deterministic production backend code with PR reviews.           | `Next.js` `NestJS` `Tailwind CSS v4` `Framer Motion` `GitHub OAuth` |
-| ♟️ **[Chesster](https://github.com/Kaycee276/Chesster)**                | Fully decentralized 2-player chess game on the Stellar network featuring Soroban smart contracts for trustless token wagering & automated match escrow.                 | `Soroban / Rust` `Stellar` `React` `Node.js` `Supabase`             |
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### **Languages & Core**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### **Frontend & UI Design**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-### **Backend, Web3 & AI**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Soroban (Stellar)](https://img.shields.io/badge/Soroban-Stellar-black?style=flat-square&logo=stellar)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google-gemini&logoColor=white)
-
-### **Databases & DevOps**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
+<!-- CYBER-TERMINAL / AUTONOMOUS AGENT RUNTIME -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaycee276&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Kaycee276 GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaycee276&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+
+```
+  ┌─────────────────────────────────────────────────────────────────┐
+  │  AGENT_ID   : IZUABA_KENNETH_KELECHUKWU // ALIAS: KAYCEE276     │
+  │  STATUS     : ONLINE [AUTONOMOUS_EXECUTION_MODE]                │
+  │  CORE       : FULLSTACK • SMART CONTRACTS • AGENTIC SYSTEMS     │
+  │  DEPLOYED   : LAGOS, NG // OPERATING GLOBALLY                   │
+  └─────────────────────────────────────────────────────────────────┘
+```
+
+<a href="https://izuaba.xyz">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF9D&center=true&vCenter=true&width=620&lines=Fullstack%2C+Web3+%26+AI+Systems+Engineer;Autonomous+AI+Agents+%26+Execution+Pipelines;Soroban+Smart+Contracts+%26+DeFi+Escrow;Software+that+is+maintainable+first%2C+then+magical." alt="Typing SVG" />
+</a>
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/TERMINAL-PORTFOLIO-0D1117?style=for-the-badge&logo=react&logoColor=00FF9D&labelColor=0D1117)](https://izuaba.xyz)
+[![LinkedIn](https://img.shields.io/badge/SIGNAL-LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0D1117)](https://linkedin.com/in/kcdeblocksmith)
+[![X / Twitter](https://img.shields.io/badge/UPLINK-X%20%2F%20TWITTER-0D1117?style=for-the-badge&logo=x&logoColor=FFFFFF&labelColor=0D1117)](https://twitter.com/kc_deblocksmith)
+[![GitHub](https://img.shields.io/badge/SOURCE-GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00FF9D&labelColor=0D1117)](https://github.com/Kaycee276)
+
 </div>
 
 ---
 
-## 🔗 Let's Connect
+### 💻 `// 01. SYSTEM_MANIFEST & CORE DIRECTIVES`
 
-I'm always open to interesting conversations, startup collaborations, and high-impact engineering roles.
+```yaml
+identity:
+  name: "Izuaba Kenneth Kelechukwu"
+  callsign: "Kaycee" | "kc_deblocksmith"
+  archetype: "Fullstack, Web3 & AI Systems Engineer"
+  mantra: "Software that is maintainable first, then magical."
+  specialization: "Intelligent agents, decentralized protocols, and high-performance developer tools."
 
-- 🌐 **Portfolio:** [izuaba.xyz](https://izuaba.xyz)
-- 💼 **LinkedIn:** [linkedin.com/in/kcdeblocksmith](https://linkedin.com/in/kcdeblocksmith)
-- 🐦 **X (Twitter):** [@kc_deblocksmith](https://twitter.com/kc_deblocksmith)
-- 🐙 **GitHub:** [@Kaycee276](https://github.com/Kaycee276)
+directives:
+  01_AGENTIC_SYSTEMS: "Engineering zero-to-one autonomous AI agent execution frameworks and code-gen pipelines."
+  02_WEB3_INFRASTRUCTURE: "Architecting trustless escrow, token mechanics & smart contracts (Soroban / Rust, EVM)."
+  03_FULLSTACK_CRAFT: "Crafting fluid, high-performance UI ecosystems (Next.js 15, React 19) backed by scalable APIs (NestJS)."
+```
 
 ---
 
-_Crafted with precision by [Izuaba Kenneth Kelechukwu](https://github.com/Kaycee276)_
+### 🛰️ `// 02. ACTIVE_SYSTEMS & DEPLOYMENTS`
+
+#### 🤖 [KP — KeeperHub Agent Platform](https://github.com/Kaycee276/kp)
+`STATUS: PRODUCTION` • `TAG: HACKATHON BUILD` • `EXECUTION: MULTI-CHAIN (EVM & SOLANA)`
+> **Zero-to-One Onchain AI Agent Platform** for multi-chain EVM & Solana transaction execution via natural language across CLI, Web, and Telegram (`@keipee_bot`). Built for *The Last Mile Hackathon*.
+- **Tech Stack:** `Next.js 15` `KeeperHub` `LangChain` `Gemini AI` `TypeScript`
+- **Key Mechanics:** Multi-surface command orchestration, wallet-delegated tool calls, and automated task execution.
+
+---
+
+#### ♟️ [Chesster — Onchain Stellar Chess](https://github.com/Kaycee276/Chesster)
+`STATUS: DEPLOYED` • `TAG: WEB3 / GAME-FI` • `NETWORK: STELLAR / SOROBAN`
+> Fully decentralized 2-player chess engine built on Stellar featuring Soroban smart contracts for trustless token wagering and automated match escrow liquidation.
+- **Tech Stack:** `Soroban / Rust` `Stellar SDK` `React` `Node.js` `Supabase`
+- **Key Mechanics:** Non-custodial game state verification, cryptographic move validation, and smart contract escrow.
+
+---
+
+#### ⚽ [bet-form — Tactical Prediction Protocol](https://github.com/Kaycee276/bet-form)
+`STATUS: OPERATIONAL` • `TAG: DECENTRALIZED PREDICTION` • `NETWORK: STELLAR / SOROBAN`
+> Football tactical prediction protocol on Stellar powered by Soroban contracts, automated scoring logic, and trustless USDC contest pools.
+- **Tech Stack:** `Soroban / Rust` `Stellar` `TypeScript` `Next.js` `Tailwind CSS`
+- **Key Mechanics:** Onchain contest liquidity pools, automated outcome resolution, and verifiable payout routing.
+
+---
+
+### ⚙️ `// 03. RUNTIME_ENVIRONMENT & TELEMETRY`
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,rust,solidity,python,react,nextjs,tailwind,nodejs,nestjs,postgres,supabase,prisma,docker,git&theme=dark" alt="Tech Stack Icons" />
+</div>
+
+<br/>
+
+```ini
+[RUNTIME_SUBSYSTEMS]
+Core_Languages     = TypeScript, JavaScript, Rust, Solidity, Python, Java, SQL
+Smart_Contracts    = Soroban (Stellar), EVM, Solidity, Escrow Mechanics, Web3 Wallets
+AI_Agentic_Systems = LangChain, Google Gemini, Multi-Agent Tooling, AST Code Gen
+Frontend_Engine    = Next.js 15, React 19, Tailwind CSS v4, Framer Motion, Vite, Zustand
+Backend_APIs       = NestJS, Node.js, Express, REST & GraphQL Architecture
+Data_Persistence   = PostgreSQL, Neon, Supabase, Prisma, Drizzle ORM, MongoDB
+DevOps_Infra       = Docker, Git, GitHub Actions, Linux, CI/CD Pipelines
+```
+
+---
+
+### 📊 `// 04. TELEMETRY_STREAM & ACTIVITY`
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaycee276&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9d&text_color=c9d1d9&icon_color=00e5ff" alt="Kaycee276 Activity Telemetry" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaycee276&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9d&text_color=c9d1d9" alt="Top Languages Telemetry" height="155" />
+</div>
+
+---
+
+### 📡 `// 05. TRANSMISSION_CHANNELS`
+
+```
+[INITIATING SECURE TRANSMISSION CHANNEL...]
+OPEN FOR: Autonomous Agent R&D • Soroban Smart Contract Architecture • High-Impact Fullstack Roles
+```
+
+- 🌐 **Terminal Portfolio:** [izuaba.xyz](https://izuaba.xyz)
+- 💼 **LinkedIn Signal:** [linkedin.com/in/kcdeblocksmith](https://linkedin.com/in/kcdeblocksmith)
+- 🐦 **X Transmission:** [@kc_deblocksmith](https://twitter.com/kc_deblocksmith)
+- 🐙 **Source Control:** [@Kaycee276](https://github.com/Kaycee276)
+
+---
+
+<div align="center">
+  <sub><code>[PROCESS COMPLETED WITH STATUS 0]</code> — Designed & engineered by <b>Izuaba Kenneth Kelechukwu</b></sub>
+</div>
