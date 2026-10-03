@@ -1,6 +1,10 @@
 <!-- CYBER-TERMINAL / AUTONOMOUS AGENT RUNTIME -->
 <div align="center">
 
+<img src="assets/operator_avatar.gif" alt="Operator Biometrics Avatar" width="440" />
+
+<br/>
+
 ```
   ┌─────────────────────────────────────────────────────────────────┐
   │  AGENT_ID   : IZUABA_KENNETH_KELECHUKWU // ALIAS: KAYCEE276     │
